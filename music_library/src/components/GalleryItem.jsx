@@ -63,8 +63,6 @@ export default function GalleryItem({ item }) {
     }
     
 
-
-
     return (
         <div
             onClick={() => setView(!view)}
